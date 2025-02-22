@@ -1,1 +1,1 @@
-In questa repository si trovano: il programma utilizzato, la presentazione discussa all'esame e l'articolo contenente i grafici da riprodurre.
+In questa repository si trovano: il programma utilizzato (CQdefBCR), la presentazione discussa all'esame, l'articolo contenente i grafici da riprodurre (VQE) e il file contenente i valori dell'ottimizzazione (risultati6). 
